@@ -22,7 +22,7 @@ while Cont_Equipos < 2:
 print (Local)
 print (Visitante)
 
-# Partido
+# Comienza el partido
 print ("Comienza el partido entre", Local[0], "y", Visitante[0])
 Fuerza_local = random.randint(0, 6)
 Fuerza_Visitante = random.randint(0, 6)
